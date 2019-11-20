@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrashApp</string>
+    <string name="toast_msg">Welcome!</string>
+</resources>
